@@ -1,5 +1,7 @@
 # Authenticate using Firebase to login with FirebaseAuth, Facebook and Google
 
+
+
 ## Register using FirebaseAuth
 
 ![](images/register.gif)
@@ -23,3 +25,9 @@
 ## Log out
 
 ![](images/logout.gif)
+
+## Reference
+
+[google-signin](https://firebase.google.com/docs/auth/ios/google-signin)
+
+[facebook-login](https://developers.facebook.com/docs/facebook-login/ios)
